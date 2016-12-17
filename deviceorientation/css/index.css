@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+.wrap, a {
+	-webkit-touch-callout: none;
+}
+.wrap, body {
+	-webkit-user-select: none;
+	-webkit-text-size-adjust: none;
+}
+article, aside, blockquote, body, button, code, dd, div, dl, dt, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, input, legend, li, menu, nav, ol, p, pre, section, td, textarea, th, ul {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+	line-height: 1.5;
+	color: #000;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	outline: 0;
+	font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: inherit;
+	font-weight: 400;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+li {
+	list-style: none;
+}
+input, select, textarea {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+	border: none;
+	background: 0 0;
+	-webkit-appearance: none;
+	outline: 0;
+}
+::-webkit-input-placeholder {
+	color: #777;
+}
+
+
+body,html {
+	width: 100%;
+	overflow: hidden;
+}
+
+.content {
+	position: relative;
+	top: -51px;
+	left: -51px;
+	width: 600px;
+	z-index: 2;
+	height: 300px;
+	overflow: hidden;
+}
+.img {
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+.info {
+	text-align: center;
+}
+
