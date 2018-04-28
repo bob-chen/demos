@@ -13,7 +13,7 @@
 
 文章：[Tips-移动端滑动固顶效果(position: sticky)](http://www.imbeta.cn/tips-yi-dong-duan-hua-dong-gu-ding-xiao-guo-position-sticky.html#tips-yi-dong-duan-hua-dong-gu-ding-xiao-guo-position-sticky)
 
-![](https://dn-mhke0kuv.qbox.me/a2eec9ae81cf1261deb0.gif)
+![](http://7xqumn.com1.z0.glb.clouddn.com/demo1.gif)
 
 ### async/await 异步多图加载
 
