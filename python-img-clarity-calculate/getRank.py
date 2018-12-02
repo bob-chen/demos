@@ -1,5 +1,7 @@
 #-*- coding:utf-8 -*-
 
+# https://github.com/bob-chen/demos/tree/master/python-img-clarity-calculate
+
 import sys
 
 

@@ -21,3 +21,8 @@ async/await 和 Promise 的异步多图加载例子，避免日常坑
 
 文章：[异步多图加载这件小事儿（Promise与async)](http://www.imbeta.cn/yi-bu-duo-tu-jia-zai-zhe-jian-xiao-shi-er-promiseyu-async.html#yi-bu-duo-tu-jia-zai-zhe-jian-xiao-shi-er-promiseyu-async)
 
+### python-img-clarity-calculate
+
+用 Python 实现的利用 3x3 拉普拉斯算子来量化图片清晰度，详细原理和实操可见文章。
+
+文章：[Python 做图片清晰度识别](http://www.imbeta.cn/python-zuo-tu-pian-qing-xi-du-shi-bie.html#python-zuo-tu-pian-qing-xi-du-shi-bie)
